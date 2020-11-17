@@ -1,0 +1,8 @@
+{
+  "teleport": {
+    "subtitle": "subtitles.elevator.teleport",
+    "sounds": [
+      "elevator:teleport"
+    ]
+  }
+}

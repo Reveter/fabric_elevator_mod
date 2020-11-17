@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "elevator:block/elevator_block" }
+  }
+}
